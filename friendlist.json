@@ -1,0 +1,22 @@
+{
+    "friendlist": [
+      {
+        "name": "Akshat",
+        "gender": "Male",
+        "city": "Dehi",
+        "id": 1
+      },
+      {
+        "name": "raj",
+        "gender": "Male",
+        "city": "Mumbai",
+        "id": 2
+      },
+      {
+        "name": "deb",
+        "gender": "Male",
+        "city": "Lucknow",
+        "id": 3
+      }
+    ]
+  }
